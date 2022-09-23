@@ -15,6 +15,6 @@ print(a_dict['db.diveintopython3.org'])
   # nó vẫn thêm 1 cặp key-value
   a_dict['User'] = 'mark'
 
- print(a_dict)
+ print('tôi là ')
  # nó là giá trị mới 
   # None là giá trị null, và nó tạo ra false
